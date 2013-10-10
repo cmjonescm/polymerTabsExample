@@ -1,0 +1,12 @@
+{
+  "name": "polymer-angular tabs example components installer",
+  "version": "0.1.1",
+  "dependencies": {
+    "polymer": "~0.0.20130912",
+    "angular": "~1.2.0-rc.1"
+  },
+  "ignore": [
+  ]
+}
+
+
